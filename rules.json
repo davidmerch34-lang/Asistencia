@@ -1,4 +1,15 @@
 {
     "companies": [],
-    "history": []
+    "history": [
+        {
+            "id": "a2cece37-36a6-4f11-a830-502de6ea2216",
+            "day": "2026-02-14",
+            "company": "TRANSPORTES MOLINA",
+            "role": "Lider",
+            "name": "¶",
+            "id64": "76561199105040717",
+            "avatar": "https://avatars.akamai.steamstatic.com/93120a5aff06349081fadfcc2c0b1591aee25498_full.jpg",
+            "ts": "2026-02-14 17:24:23"
+        }
+    ]
 }
